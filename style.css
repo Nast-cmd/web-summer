@@ -1,3 +1,23 @@
-div{ 
-    color:rgb(48, 39, 39)
-} 
+.topic {
+    color:rgb(5, 5, 5)
+}
+.footer {
+    color:rgb(15, 14, 14)
+}
+#y {
+    color:#b86614;
+    border: 3px #453321 dashed;
+}
+body {
+    background-color:#8a6642
+}
+.food {
+    background-color: #8a7842;
+}
+#B {
+    background-color: #b0a159;
+    border: 3px #453321 dashed;
+}
+.Gym {
+    background-color: #b0a159;
+}
