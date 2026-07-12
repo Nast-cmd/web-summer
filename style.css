@@ -5,19 +5,34 @@
     color:rgb(15, 14, 14)
 }
 #y {
-    color:#b86614;
+    color:#e3d4c5;
     border: 3px #453321 dashed;
 }
 body {
     background-color:#8a6642
 }
 .food {
-    background-color: #8a7842;
+    background-color: #bbd3a3;
 }
 #B {
-    background-color: #b0a159;
-    border: 3px #453321 dashed;
+    background-color: #4f6a33;
+    border: 3px dashed #91b76a;
 }
-.Gym {
-    background-color: #b0a159;
+#G {
+    background-color: #5c8cb1;
+    border: 3px dashed #4d6ba1
+}
+
+#navigation {
+color: #e3d4c5;
+}
+.gym {
+    background-color: #9fbbd1;
+}
+#L {
+    background-color:#a85750;
+    border: 3px dashed #bd7b75
+}
+.lifehacks {
+    background-color: #c38680
 }
