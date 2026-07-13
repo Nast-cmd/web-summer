@@ -4,7 +4,7 @@
 .footer {
     color:rgb(15, 14, 14)
 }
-#y {
+#topic {
     color:#e3d4c5;
     border: 3px #453321 dashed;
 }
@@ -14,11 +14,11 @@ body {
 .food {
     background-color: #bbd3a3;
 }
-#B {
+#products {
     background-color: #4f6a33;
     border: 3px dashed #91b76a;
 }
-#G {
+#gym {
     background-color: #5c8cb1;
     border: 3px dashed #4d6ba1
 }
@@ -29,7 +29,7 @@ color: #e3d4c5;
 .gym {
     background-color: #9fbbd1;
 }
-#L {
+#lifehacks {
     background-color:#a85750;
     border: 3px dashed #bd7b75
 }
