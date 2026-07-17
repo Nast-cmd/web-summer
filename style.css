@@ -36,3 +36,10 @@ color: #e3d4c5;
 .lifehacks {
     background-color: #c38680
 }
+.icon {
+    scale: 0.5;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
