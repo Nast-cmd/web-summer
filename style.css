@@ -23,7 +23,7 @@ body {
     border: 3px dashed #4d6ba1
 }
 
-#navigation {
+.navigation {
 color: #e3d4c5;
 }
 .gym {
@@ -42,4 +42,7 @@ color: #e3d4c5;
 a {
     text-decoration: none;
     color: black;
+}
+.recipe {
+    width: 300px; height: 300px; border: 1px solid white;
 }
