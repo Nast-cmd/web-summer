@@ -7,12 +7,15 @@
 #topic {
     color:#e3d4c5;
     border: 3px #453321 dashed;
+    margin: 60px;
+    padding: 0px 500px;
 }
 body {
     background-color:#8a6642
 }
 .food {
     background-color: #bbd3a3;
+    margin: 20px;;
 }
 #products {
     background-color: #4f6a33;
@@ -21,28 +24,51 @@ body {
 #gym {
     background-color: #5c8cb1;
     border: 3px dashed #4d6ba1
+
 }
 
 .navigation {
 color: #e3d4c5;
+margin: 20px;
 }
 .gym {
     background-color: #9fbbd1;
+    margin: 20px;
 }
 #lifehacks {
     background-color:#a85750;
-    border: 3px dashed #bd7b75
+    border: 3px dashed #bd7b75;
+    padding: 0px 500px
 }
 .lifehacks {
-    background-color: #c38680
+    background-color: #c38680;
+    margin: 20px;
+    padding: 40px;
 }
 .icon {
-    scale: 0.5;
+width: 300px; height: 300px; border: 1px solid white;   ;
 }
 a {
     text-decoration: none;
     color: black;
 }
-.recipe {
+.icon2 {
     width: 300px; height: 300px; border: 1px solid white;
+}
+.aboutme {
+margin: 20px;
+background-color: #e3d4c5;
+}
+.aboutmeinfo {
+margin: 20px;
+padding: 40px 20px;
+}
+.proteins {
+margin: 20px;
+}
+.carbs {
+margin: 20px;
+}
+.fats {
+margin: 20px;
 }
