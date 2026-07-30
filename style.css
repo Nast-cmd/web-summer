@@ -15,18 +15,17 @@ body {
 }
 .food {
     background-color: #bbd3a3;
-    margin: 20px;;
+    margin: 20px;
 }
-#products {
+#korsina {
     background-color: #4f6a33;
     border: 3px dashed #91b76a;
 }
 #gym {
     background-color: #5c8cb1;
-    border: 3px dashed #4d6ba1
-
+    border: 3px dashed #4d6ba1;
+    padding: 0px 500px;
 }
-
 .navigation {
 color: #e3d4c5;
 margin: 20px;
@@ -34,6 +33,11 @@ margin: 20px;
 .gym {
     background-color: #9fbbd1;
     margin: 20px;
+    padding: 10px 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
 }
 #lifehacks {
     background-color:#a85750;
@@ -71,4 +75,40 @@ margin: 20px;
 }
 .fats {
 margin: 20px;
+}
+.proteins, .fats, .carbs {
+    display: inline-block;
+}
+.recipes {
+    margin: 50px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px
+}
+#resipe1, #resipe2, #resipe3 {
+    display: inline-block;
+    justify-content: space-between;
+}
+#resipe1 {
+    margin: 50px 50px
+}
+#resipe2 {
+    margin: 50px 50px
+}
+#resipe3 {
+    margin: 50px 50px
+}
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px
+}
+.trenirovki {
+    margin: 0px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px
 }
