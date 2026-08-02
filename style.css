@@ -11,15 +11,18 @@
     padding: 0px 500px;
 }
 body {
-    background-color:#8a6642
+    background-color:#8a6642;
+    font-family: "Comfortaa", sans-serif;
 }
 .food {
     background-color: #bbd3a3;
     margin: 20px;
+    padding: 40px;
 }
 #korsina {
     background-color: #4f6a33;
     border: 3px dashed #91b76a;
+    padding: 0px 500px;
 }
 #gym {
     background-color: #5c8cb1;
@@ -33,11 +36,7 @@ margin: 20px;
 .gym {
     background-color: #9fbbd1;
     margin: 20px;
-    padding: 10px 60px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 30px;
+    padding: 40px;
 }
 #lifehacks {
     background-color:#a85750;
@@ -102,13 +101,18 @@ margin: 20px;
 .products {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px
+    justify-content:space-around ; 
 }
 .trenirovki {
-    margin: 0px 50px;
+    margin: 20px 50px ;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 20px
+}
+#korsina, #gym, #lifehacks {
+    font-family: "Rubik Bubbles", system-ui;
+}
+#factors {
+    margin: 20px 50px
 }
