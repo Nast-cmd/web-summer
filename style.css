@@ -23,6 +23,7 @@ body {
     background-color: #4f6a33;
     border: 3px dashed #91b76a;
     padding: 0px 500px;
+    margin: 20px;
 }
 #gym {
     background-color: #5c8cb1;
@@ -55,8 +56,9 @@ a {
     text-decoration: none;
     color: black;
 }
-.icon2 {
-    width: 300px; height: 300px; border: 1px solid white;
+.icon1 {
+    height: 200px;
+    scale: 0.2; border: 1px solid white;
 }
 .aboutme {
 margin: 20px;
@@ -80,6 +82,7 @@ margin: 20px;
 }
 .recipes {
     margin: 50px 0px;
+    padding: 40px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -115,4 +118,8 @@ margin: 20px;
 }
 #factors {
     margin: 20px 50px
+}
+.myplates {
+padding: 50px;
+margin: 20px;
 }
